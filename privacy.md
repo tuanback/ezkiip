@@ -1,3 +1,6 @@
+---
+permalink: /privacy.md
+---
 **Privacy Policy**
 
 Tuan Do Thanh built the Easy KIIP app as an Ad Supported app. This SERVICE is provided by Tuan Do Thanh at no cost and is intended for use as is.
